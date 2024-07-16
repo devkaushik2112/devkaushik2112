@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @devkaushik2112
+- 👋 Hi, I’m DEV KAUSHIK
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java with DSA
-- 📫 How to reach me ...devkaushk2112@gmail.com
+- 📫 How to reach me- devkaushk2112@gmail.com
 - ⚡ Fun fact: ...i am not a genius but happy to learn
 
 <!---
